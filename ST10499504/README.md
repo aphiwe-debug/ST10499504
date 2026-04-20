@@ -102,9 +102,7 @@ Homepage (index.html)
 - Created two website project proposals for two different organisations (Swift Bookings and a second fictional client).
 - Swift Bookings was selected as the primary organisation following the proposal process.
 - Designed a sitemap covering all 5 required pages.
-- Set up the file and folder structure with `css/`, `js/`, and `img/` subfolders.
 - Built all 5 HTML pages with semantic HTML5 elements, consistent navigation, and real content.
-- Added an image slideshow to the homepage using three Unsplash hotel images.
 - Added images to all service and room sections using relevant Unsplash photography.
 - Included a booking enquiry form (`enquiry.html`) with room selection, dates, guest count, and add-on options.
 - Included a contact form (`contact.html`) with a subject dropdown and two Google Maps embeds for Durban and Johannesburg.

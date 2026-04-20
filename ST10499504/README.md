@@ -150,7 +150,6 @@ All images sourced from Unsplash under the Unsplash Licence (free to use, no att
 
 ### v0.1.0 — 2026-04-19 — Part 1 Initial Submission
 
-- Created project folder structure: root files, `css/`, `js/`, `img/` subfolders.
 - Built `index.html` with hero section, image slideshow, room type previews, and services overview.
 - Built `about.html` with company history, mission and vision statements, team member profiles, and a "why choose us" list.
 - Built `services.html` with full details for Standard Room, Deluxe Suite, Airport Shuttle, and Spa & Wellness Centre, including pricing and feature lists.
